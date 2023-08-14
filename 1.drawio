@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T08:51:13.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kM02BD5G7HzaAaGUkJBu" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T08:51:58.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="m6k888T8S5wvWJ1yO8-u" version="21.6.8" type="github">
   <diagram name="페이지-1" id="y-S1PTLIUPCFTGaCikYn">
     <mxGraphModel dx="2031" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,8 +120,8 @@
         <mxCell id="qrLeTjBu-Ae9pymuF5rT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrLeTjBu-Ae9pymuF5rT-35" target="qrLeTjBu-Ae9pymuF5rT-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="355" />
-              <mxPoint x="350" y="391" />
+              <mxPoint x="360" y="355" />
+              <mxPoint x="360" y="391" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -176,37 +176,34 @@
         <mxCell id="qrLeTjBu-Ae9pymuF5rT-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrLeTjBu-Ae9pymuF5rT-49" target="qrLeTjBu-Ae9pymuF5rT-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="515" />
-              <mxPoint x="340" y="391" />
+              <mxPoint x="360" y="515" />
+              <mxPoint x="360" y="391" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qrLeTjBu-Ae9pymuF5rT-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="760" y="390" width="410" height="350" as="geometry" />
+        <mxCell id="qrLeTjBu-Ae9pymuF5rT-8" value="정보" style="rounded=0;whiteSpace=wrap;html=1;container=0;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="490" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="qrLeTjBu-Ae9pymuF5rT-8" value="정보" style="rounded=0;whiteSpace=wrap;html=1;container=0;align=center;verticalAlign=top;" vertex="1" parent="qrLeTjBu-Ae9pymuF5rT-7">
-          <mxGeometry width="410" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="qrLeTjBu-Ae9pymuF5rT-58" value="" style="group" vertex="1" connectable="0" parent="qrLeTjBu-Ae9pymuF5rT-7">
-          <mxGeometry x="20" y="34" width="184.35" height="86" as="geometry" />
+        <mxCell id="qrLeTjBu-Ae9pymuF5rT-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="782.439024390244" y="424" width="206.83170731707318" height="86" as="geometry" />
         </mxCell>
         <mxCell id="qrLeTjBu-Ae9pymuF5rT-12" value="hotel_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="qrLeTjBu-Ae9pymuF5rT-58">
-          <mxGeometry y="26" width="184.35000000000002" height="30" as="geometry" />
+          <mxGeometry y="26" width="206.8317073170732" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qrLeTjBu-Ae9pymuF5rT-14" value="호텔 옵션" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;flipH=1;container=1;" vertex="1" parent="qrLeTjBu-Ae9pymuF5rT-58">
-          <mxGeometry width="184.35000000000002" height="86" as="geometry" />
+          <mxGeometry width="206.8317073170732" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="qrLeTjBu-Ae9pymuF5rT-59" value="" style="group" vertex="1" connectable="0" parent="qrLeTjBu-Ae9pymuF5rT-7">
-          <mxGeometry x="20" y="132" width="184.35" height="86" as="geometry" />
+        <mxCell id="qrLeTjBu-Ae9pymuF5rT-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="782.439024390244" y="522" width="206.83170731707318" height="86" as="geometry" />
         </mxCell>
         <mxCell id="qrLeTjBu-Ae9pymuF5rT-9" value="룸" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;flipH=1;container=0;" vertex="1" parent="qrLeTjBu-Ae9pymuF5rT-59">
-          <mxGeometry width="184.35000000000002" height="86" as="geometry" />
+          <mxGeometry width="206.8317073170732" height="86" as="geometry" />
         </mxCell>
         <mxCell id="qrLeTjBu-Ae9pymuF5rT-10" value="hotel_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="qrLeTjBu-Ae9pymuF5rT-59">
-          <mxGeometry y="26" width="184.35000000000002" height="30" as="geometry" />
+          <mxGeometry y="26" width="206.8317073170732" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qrLeTjBu-Ae9pymuF5rT-11" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="qrLeTjBu-Ae9pymuF5rT-59">
-          <mxGeometry y="56" width="184.35000000000002" height="30" as="geometry" />
+          <mxGeometry y="56" width="206.8317073170732" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
