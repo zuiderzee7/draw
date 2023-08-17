@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T04:53:20.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QCQzecfu3JHIfdWo1a0m" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T04:55:11.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GOvWmJe_-9ugZu4_ONf3" version="21.6.8" type="github">
   <diagram name="페이지-1" id="y-S1PTLIUPCFTGaCikYn">
     <mxGraphModel dx="1554" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DBDBDB" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qrLeTjBu-Ae9pymuF5rT-1" value="셀렉스테이" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-570" y="-350" width="840" height="1430" as="geometry" />
+          <mxGeometry x="-580" y="-350" width="840" height="1430" as="geometry" />
         </mxCell>
         <mxCell id="qrLeTjBu-Ae9pymuF5rT-2" value="호텔" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;flipH=1;rounded=0;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="470" y="350" width="155" height="116" as="geometry" />
@@ -233,6 +233,26 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_AvtWLBcrE-bu84miZi--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrLeTjBu-Ae9pymuF5rT-50" target="qrLeTjBu-Ae9pymuF5rT-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="55" />
+              <mxPoint x="50" y="447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_AvtWLBcrE-bu84miZi--32" value="스케줄러&lt;br&gt;가능 기간" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="640" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_AvtWLBcrE-bu84miZi--33" value="voucher_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_AvtWLBcrE-bu84miZi--32">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_AvtWLBcrE-bu84miZi--34" value="hotel_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_AvtWLBcrE-bu84miZi--32">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_AvtWLBcrE-bu84miZi--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_AvtWLBcrE-bu84miZi--33" target="qrLeTjBu-Ae9pymuF5rT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_AvtWLBcrE-bu84miZi--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_AvtWLBcrE-bu84miZi--34" target="qrLeTjBu-Ae9pymuF5rT-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
